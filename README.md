@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ehtesham-Ali-889
+- 👋 Hi, I’m @Ehtesham Ali
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate with other coders
